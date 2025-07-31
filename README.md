@@ -35,7 +35,7 @@ No se requiere profundizar más en una explicación detallada o lógica, ya que 
    
 ![Segundo Paso](/assets/tutorial2.JPG)  
 
-3. _En el tercer paso posterior a presionar el boton, obtenemos nuestro amigo secreto, destacado con otro color la tipografia y el tomando el nombre digitado_
+3. _En el tercer paso posterior a presionar el boton, obtenemos nuestro amigo secreto, destacado con otro color la tipografia y tomando el nombre digitado_
    
 ![Tercer Paso](/assets/tutorial3.JPG)  
 
