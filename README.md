@@ -24,6 +24,22 @@ No se requiere profundizar más en una explicación detallada o lógica, ya que 
 
 >Aquí puedes encontrar el deploy y testearlo para ver si logras identificar puntos de mejora u optimización :point_right:, [Juego de randomizacion](https://ignacio-learning.github.io/primer-proyecto/).  
 
+<ins> **Mini Tutorial**</ins>  
+
+1. _El primer paso es digitalizar los nombres en el cuadro que queremos que se incluyan en la lista._  
+
+![Primer Paso](/assets/tutorial1.JPG)  
+
+
+2. _El segundo paso luego de agregar la cantidad que queremos de amigos para sortearlos es, presionar el boton de **"Sortear amigo"** para que nos arroje un resultado._  
+   
+![Segundo Paso](/assets/tutorial2.JPG)  
+
+3. _En el tercer paso posterior a presionar el boton, obtenemos nuestro amigo secreto, destacado con otro color la tipografia y el tomando el nombre digitado_
+   
+![Tercer Paso](/assets/tutorial3.JPG)  
+
+
 
 **Con esto pongo fin a mi primer markdown. Arriba, en los tags, se puede ver la cantidad de commits realizados en total.
 Si llego a pulir más esto o tomarlo como base para modificarlo a mi gusto en un futuro, lo iré actualizando.  
